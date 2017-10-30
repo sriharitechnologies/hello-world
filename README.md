@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Tom,
+
+Made some changes to the text.
